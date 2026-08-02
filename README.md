@@ -29,6 +29,7 @@ Welcome to my 30-day Python learning journey! This repository serves as a daily 
 | **Day 02** | Strings and Booleans | [`day02_strings_and_booleans.py`](./day02_strings_and_booleans.py) |
 | **Day 03** | NoneType & Basic Math Operations | [`day03_none_and_math_operators.py`](./day03_none_and_math_operators.py) |
 | **Day 04** | Modulo Operator (%) & Assignment Operators | [`day04_modulo_and_assignment_operators.py`](./day04_modulo_and_assignment_operators.py) |
+| **Day 05** | Comparison & Logical Operators | [`day05_comparison_and_logical_operators.py`](./day05_comparison_and_logical_operators.py) |
 
 ---
 
