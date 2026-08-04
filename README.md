@@ -31,6 +31,7 @@ Welcome to my 30-day Python learning journey! This repository serves as a daily 
 | **Day 04** | Modulo Operator (%) & Assignment Operators | [`day04_modulo_and_assignment_operators.py`](./day04_modulo_and_assignment_operators.py) |
 | **Day 05** | Comparison & Logical Operators | [`day05_comparison_and_logical_operators.py`](./day05_comparison_and_logical_operators.py) |
 | **Day 06** | Advanced Boolean Logic (and, or, not) | [`day06_boolean_logic_and_operators.py`](./day06_boolean_logic_and_operators.py) |
+| **Day 07** | User Input & Real-World Logic | [`day07_user_input_and_real_world_logic.py`](./day07_user_input_and_real_world_logic.py) |
 ---
 
 ## 🚀 Future Plans
