@@ -34,5 +34,3 @@ Welcome to my 30-day Python learning journey! This repository serves as a daily 
 | **Day 07** | User Input & Real-World Logic | [`day07_user_input_and_real_world_logic.py`](./day07_user_input_and_real_world_logic.py) |
 ---
 
-## 🚀 Future Plans
-After completing these fundamentals, I will start working on collaborative Web + AI integration projects!
