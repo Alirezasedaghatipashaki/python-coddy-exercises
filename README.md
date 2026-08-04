@@ -9,7 +9,6 @@ Welcome to my 30-day Python learning journey! This repository serves as a daily 
 - [x] Build a consistent daily coding habit.
 - [x] Master Python core syntax, data types, and logic.
 - [x] Keep GitHub green with active commits.
-- [ ] Connect Python with AI APIs and Web Development projects.
 
 ---
 
